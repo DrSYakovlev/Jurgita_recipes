@@ -11,3 +11,11 @@ img:hover {
     max-width: 30%;
 }
 
+#schi:hover {
+    background-color:lawngreen;
+}
+
+#fish:hover {
+    background-color:rgb(215, 200, 180);
+}
+
